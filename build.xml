@@ -10,7 +10,7 @@
 	
 	<target name="init">
 		<mkdir dir="build/classes"/>
-		<mkdir dir="dist" />
+		<mkdir dir="dist1" />
 	</target>
 	
 	<target name="compile" depends="init" >
